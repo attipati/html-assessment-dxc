@@ -1,5 +1,7 @@
 h1 {
-    font-family: Spartan;
+    font-family:'Spartan',sans-serif;
+    margin:auto;
+    color:hsl(300,43%,22%);
     font-weight: 500;
   }
 
